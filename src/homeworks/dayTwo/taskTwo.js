@@ -23,6 +23,7 @@ function areFriendlyNumbers(number1, number2) {
     }
     return false
 }
+
 let number1 = 220
 let number2 = 284
 console.log("Number1 = " + number1 + " and Number2 = " + number2 + " are Friendly Numbers? : " +  areFriendlyNumbers(number1, number2))
