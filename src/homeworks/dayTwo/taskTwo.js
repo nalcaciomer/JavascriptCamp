@@ -1,4 +1,4 @@
-// Parametre olarak girilen iki sayının arkadaş sayılar olup olmadığını bulan programı yazınız
+// Task 2: Parametre olarak girilen iki sayının arkadaş sayılar olup olmadığını bulan programı yazınız
 
 function areFriendlyNumbers(number1, number2) {
     let bigNumber = number1
