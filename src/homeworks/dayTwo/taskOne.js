@@ -1,5 +1,5 @@
 // Task 1 : JavaScript ile istediğiniz kadar sayı parametre gönderebileceğiniz bir fonksiyon yazınız. 
-//          Bu fonksiyona gönderdiğiniz her sayı için çıktı olarak asal olup olmadığını yazınız.
+//         Bu fonksiyona gönderdiğiniz her sayı için çıktı olarak asal olup olmadığını yazınız.
 
 function writeIsPrimeNumber(number, isPrime) {
     console.log("Number : " + number + " => isPrime : " + isPrime)
