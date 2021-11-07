@@ -5,6 +5,7 @@ function areFriendlyNumbers(number1, number2) {
     if (number2 > bigNumber) {
         bigNumber = number2
     }
+    
     let total1 = 0
     let total2 = 0
 
