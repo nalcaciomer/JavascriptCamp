@@ -6,6 +6,7 @@ for (let i = 2; i <= 1000; i++) {
             total += k
         }
     }  
+    
     if (total == 2 * i) {
         console.log("Number : " + i + " is a Perfect Number.")
     }
